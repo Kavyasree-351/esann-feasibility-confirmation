@@ -1,0 +1,29 @@
+{
+  "H1": {
+    "glove": {
+      "passing_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    },
+    "coco_clip": {
+      "passing_seeds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    }
+  },
+  "replicated_H1": true,
+  "frozen_inputs_sha256": "631d20e347db674af5621fa4048d09bc57ce32616b14877a5b8ee3599b845370",
+  "confirmation_lock_sha256": "683c10f6c0fccb250aa7cce7efdf7476a99c77e9040d0033994e4ffb7a5d9b31",
+  "full_author_engine_verified": false,
+  "novelty_established": false,
+  "confidence_scope": "Exploratory seed/query summaries; empirical admissions do not give a distribution-free safety guarantee."
+}

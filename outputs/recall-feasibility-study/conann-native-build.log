@@ -1,0 +1,13 @@
+[1/92] Building CXX object faiss/CMakeFiles/faiss.dir/Clustering.cpp.obj
+[2/92] Building CXX object faiss/CMakeFiles/faiss.dir/AutoTune.cpp.obj
+FAILED: [code=1] faiss/CMakeFiles/faiss.dir/AutoTune.cpp.obj 
+C:\msys64\ucrt64\bin\g++.exe -DFAISS_MAIN_LIB -DFINTEGER=int -I"<WORKSPACE>/work/conann-upstream/conann" -isystem "<WORKSPACE>/work/conann-deps/ucrt64/include" -O3 -DNDEBUG -fopenmp -MD -MT faiss/CMakeFiles/faiss.dir/AutoTune.cpp.obj -MF faiss\CMakeFiles\faiss.dir\AutoTune.cpp.obj.d -o faiss/CMakeFiles/faiss.dir/AutoTune.cpp.obj -c "<WORKSPACE>/work/conann-upstream/conann/faiss/AutoTune.cpp"
+In file included from <WORKSPACE>/work/conann-upstream/conann/faiss/IndexIVFPQ.h:18,
+                 from <WORKSPACE>/work/conann-upstream/conann/faiss/AutoTune.cpp:28:
+<WORKSPACE>/work/conann-upstream/conann/faiss/utils/AlignedTable.h: In member function 'void faiss::AlignedTableTightAlloc<T, A>::resize(size_t)':
+<WORKSPACE>/work/conann-upstream/conann/faiss/utils/AlignedTable.h:50:23: error: there are no arguments to 'posix_memalign' that depend on a template parameter, so a declaration of 'posix_memalign' must be available [-Wtemplate-body]
+   50 |             int ret = posix_memalign((void**)&new_ptr, A, n * sizeof(T));
+      |                       ^~~~~~~~~~~~~~
+<WORKSPACE>/work/conann-upstream/conann/faiss/utils/AlignedTable.h:50:23: note: (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+[3/92] Building CXX object faiss/CMakeFiles/faiss.dir/IVFlib.cpp.obj
+ninja: build stopped: subcommand failed.

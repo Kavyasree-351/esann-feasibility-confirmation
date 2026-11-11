@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "counts": {
+    "policy_cases": 600,
+    "group_rows": 2400,
+    "runs": 10
+  },
+  "exact_vector_overlap": [
+    {
+      "dataset": "glove",
+      "design_calibration_exact_vector_overlap": 0,
+      "design_pilot_exact_vector_overlap": 0,
+      "calibration_pilot_exact_vector_overlap": 0
+    },
+    {
+      "dataset": "coco_clip",
+      "design_calibration_exact_vector_overlap": 1,
+      "design_pilot_exact_vector_overlap": 1,
+      "calibration_pilot_exact_vector_overlap": 2
+    }
+  ],
+  "frozen_sha256": "631d20e347db674af5621fa4048d09bc57ce32616b14877a5b8ee3599b845370",
+  "confirmation_rows_opened": 0,
+  "scope": "Saved raw/summary agreement, independently rebuilt groups, hard caps, Brier means, returned/executed work; no confirmation labels read."
+}

@@ -1,0 +1,12 @@
+{
+  "pilot_unique_queries_per_dataset": 500,
+  "confirmation_unique_queries_per_dataset": 2000,
+  "confirmation_outcomes_evaluated": true,
+  "old_reserved_official_final_queries_evaluated": 0,
+  "coco_unused_official_query_rows": 4994,
+  "confirmation_duplicates_removed": {
+    "glove": 0,
+    "coco_clip": 6
+  },
+  "note": "The confirmation split file records its frozen PRE-label state; this ledger records the completed evaluation state."
+}

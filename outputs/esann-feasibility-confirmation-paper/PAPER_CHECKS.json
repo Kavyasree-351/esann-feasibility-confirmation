@@ -1,0 +1,106 @@
+{
+  "pdf_sha256": "a8bd2a77e06b93cff0d840c159ea92df74e55011d1d5da6b273d1968373bb4b2",
+  "pages": 6,
+  "format": "A4",
+  "printing_area_mm": [
+    122,
+    193
+  ],
+  "margins_mm": [
+    44,
+    44,
+    52,
+    52
+  ],
+  "abstract_words": 100,
+  "all_fonts_embedded": true,
+  "fonts": {
+    "/IHAIZV+LMRoman12-Bold": true,
+    "/BZIVMZ+LMRoman9-Regular": true,
+    "/IXFAWU+LMRoman9-Bold": true,
+    "/TQTHRL+LMRoman10-Regular": true,
+    "/YEUUOC+LMRoman10-Italic": true,
+    "/AKHCZK+CMMI10": true,
+    "/VDVGTR+CMR10": true,
+    "/CAFSZL+CMMI7": true,
+    "/DDIEWW+CMSY10": true,
+    "/FKPJSN+CMEX10": true,
+    "/PVTTLK+CMR7": true,
+    "/JAGKKY+CMBX10": true,
+    "/NOMARO+CMR9": true,
+    "/KPXLOM+CMMI9": true,
+    "/UTACNV+CMSY9": true,
+    "/EJFYUT+DejaVuSans": true,
+    "/EPUXGH+DejaVuSans": true,
+    "/CPUQYB+DejaVuSans": true,
+    "/FZDNHS+LMMono10-Regular": true
+  },
+  "page_bounds": [
+    {
+      "page": 1,
+      "text_bbox_points": [
+        124.72442000000001,
+        148.18520602399985,
+        470.56551243200005,
+        599.91684216
+      ],
+      "words": 238
+    },
+    {
+      "page": 2,
+      "text_bbox_points": [
+        124.72439999999989,
+        147.72861459199999,
+        470.55752231999975,
+        657.4501821599997
+      ],
+      "words": 350
+    },
+    {
+      "page": 3,
+      "text_bbox_points": [
+        124.72440999999998,
+        147.72861459199999,
+        470.5615173759999,
+        665.3354021599998
+      ],
+      "words": 352
+    },
+    {
+      "page": 4,
+      "text_bbox_points": [
+        124.72441,
+        147.72861459199999,
+        470.56649869599994,
+        671.2909121599998
+      ],
+      "words": 253
+    },
+    {
+      "page": 5,
+      "text_bbox_points": [
+        124.72442,
+        147.72861459199999,
+        470.5625236399999,
+        669.4083921599997
+      ],
+      "words": 298
+    },
+    {
+      "page": 6,
+      "text_bbox_points": [
+        124.72441999999998,
+        147.72861459199999,
+        470.5595348479999,
+        680.0661821600002
+      ],
+      "words": 297
+    }
+  ],
+  "confirmation_evaluated": true,
+  "old_reserved_official_final_test_accessed": false,
+  "author_identified": true,
+  "affiliation_pending": true,
+  "status": "Formatting checked; held-out confirmation completed; affiliation, novelty assessment and submission decision remain pending",
+  "visual_review": "All six final pages reviewed; margins, figures, equations and tables checked."
+}

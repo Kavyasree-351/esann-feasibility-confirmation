@@ -1,0 +1,212 @@
+{
+  "frozen_inputs_sha256": "631d20e347db674af5621fa4048d09bc57ce32616b14877a5b8ee3599b845370",
+  "gate_sha256": "7136c7823627773654a489d69af197c2eb4d3b3ec2e9e0a9590024827d9a66a2",
+  "confirmation_driver_sha256": "dbe0ae072414aec2c98a452a9e24c9c4850c3a73fc39cd2f84eff383001a7a23",
+  "pilot_files": {
+    "results/pilot/coco_clip_0.json": "f7d71af70cdc2f6371a6b6b7017e68f78d3d3d1325ce01dc8b32be1ba0af606c",
+    "results/pilot/coco_clip_0_admissions.csv": "c1b417a1be159e0b087ef9d089d0e912c183198dec3b41daa3031dfeb55a5c4c",
+    "results/pilot/coco_clip_0_floors.csv": "08718e568740345d8d09902ce48e78968ed5b436d342b4a1f1676f82d0ea3b95",
+    "results/pilot/coco_clip_0_groups.csv": "d4e3783a1131983bcb77d77ba35f4075cde2084673b5564bbb21f5327014a677",
+    "results/pilot/coco_clip_0_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/coco_clip_0_policies.csv": "88dc38c87d6c48ef1d1d77e24643aecd4d9303391a14b559f263ecb1865083fa",
+    "results/pilot/coco_clip_0_raw.npz": "42dd0ad0d7e89b47832fa514f9e0279b0cd3033c0a989a1b136bdb2900d9233b",
+    "results/pilot/coco_clip_1.json": "d332f7a0b8e917bf73715a5c02265f628c4f1ae2b6be0179fc4367a1c11a99a7",
+    "results/pilot/coco_clip_1_admissions.csv": "00ecc3be129d76103050789952d8b6acb4cb31b4984ab800dfd7c2af93ae40ba",
+    "results/pilot/coco_clip_1_floors.csv": "508558ccb37522f1882a3b3c0339d2b00432deef86da1f80534301a876b61514",
+    "results/pilot/coco_clip_1_groups.csv": "0e193d024201e025e35672f2e71be9d20974b2c9a8ca70fd8e0b4d3867ee4178",
+    "results/pilot/coco_clip_1_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/coco_clip_1_policies.csv": "402fffb457c6bf2cd849a3e64241980c775c93d358c3c8d16b914a27238d920c",
+    "results/pilot/coco_clip_1_raw.npz": "39a2b3f29aa992b153e424176431ead93fbbf769b7a3fc05d5bd1dd9e7f8efe1",
+    "results/pilot/coco_clip_2.json": "0cf8abb2a460f60229166c9e06c8f15b2f41fa0c45de0a5a98782f0577955ef6",
+    "results/pilot/coco_clip_2_admissions.csv": "b488b944268ca58b038308fb978812f4622a4eae858c0e286d1dc9015f5c813d",
+    "results/pilot/coco_clip_2_floors.csv": "067f86786e73364beb0c938fbfbafe27d4f9fe2f49b7dee48c6b286eb8bc4886",
+    "results/pilot/coco_clip_2_groups.csv": "d6eab99140128b5d3dc3e2c002b5259850e4f7a2ecf6b2ad12930269e45ed00a",
+    "results/pilot/coco_clip_2_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/coco_clip_2_policies.csv": "266d0fd63d4007eaf44283f0ba12b294a3b1c2a98630103bbbd2878363cd19f4",
+    "results/pilot/coco_clip_2_raw.npz": "0bc4beaf8108aeec1e60a359cceb5e3365d619c7c66317d9ab756cdd2c365f33",
+    "results/pilot/coco_clip_3.json": "29ef10674f77fd483d87d7263572b774aadd2bfe20333e1ef7ba2782c8a7da8d",
+    "results/pilot/coco_clip_3_admissions.csv": "38a3e605a4df686f7219ed76135981ea3c2573647fb10cc2945cd82f5c211b06",
+    "results/pilot/coco_clip_3_floors.csv": "ce53d812c970cabee59bd2bd2357f61319f17c835d2f9da32099f3fa29a01874",
+    "results/pilot/coco_clip_3_groups.csv": "0df8bf5776eb3df7846633650c86b64d3205ee09d1e5db75fa34094aec2c50c6",
+    "results/pilot/coco_clip_3_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/coco_clip_3_policies.csv": "83e06737f7f3afdb18362599f04f9755da99b656d29996c26bfe15e8883e86c9",
+    "results/pilot/coco_clip_3_raw.npz": "f88f534a722e618a44d21f399a169888042ba61ebdc1deb6867e42f41dbdd95e",
+    "results/pilot/coco_clip_4.json": "cb7d4070c94cf517d36994c3b0ee565117b716b9f07852c9b65be4e93e6dc689",
+    "results/pilot/coco_clip_4_admissions.csv": "fc1034b03c0a0637121b28dd9ddc805257bedcfefd4498f5417900940922565a",
+    "results/pilot/coco_clip_4_floors.csv": "e14a984e8b05a14e8434895f45b8a8934911983a31e22856e6af0f5789d17f6f",
+    "results/pilot/coco_clip_4_groups.csv": "10da29b1cda5eee640dde30704d17e787c3860649e729e2be00db539584e0536",
+    "results/pilot/coco_clip_4_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/coco_clip_4_policies.csv": "912b89b9915898f31da0bcfe243221eb035428a773379d7feefa3988ebdd3518",
+    "results/pilot/coco_clip_4_raw.npz": "ddd974586769259d4d39c4495f654972b03d8f7bff852924dba8751c46326654",
+    "results/pilot/glove_0.json": "1ef009722670c992549a2be2e376b2ea9bdde5dde7b893adc58bed3221b6216f",
+    "results/pilot/glove_0_admissions.csv": "54541dd8fbfbedb84a422d30f9a193e00091b9e16387a8c0020a38afe746d2ee",
+    "results/pilot/glove_0_floors.csv": "202f1a00d8fd1a49169114a5768f7f04481be19ca5284570b4613fba4dd4eb84",
+    "results/pilot/glove_0_groups.csv": "6f5f9d46634b630fe7b6572a01bd49995a68bbb24326283b3a16fded37d91bba",
+    "results/pilot/glove_0_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/glove_0_policies.csv": "be26058e2b462f00a2aefea27e326d16a0fc77f64829878f8e4f544df1c2f257",
+    "results/pilot/glove_0_raw.npz": "b5f2f5b1812a5ac7d83703cd61acd0808dcb155f01b87648877935a5d26891bc",
+    "results/pilot/glove_1.json": "3662abf7c17ce8582a960adcb49e5af7bb3a3e32b5113deb049cbfd6192f5518",
+    "results/pilot/glove_1_admissions.csv": "21cd9b7ce836718f81173af89e9568ccf26e0126c6b224caca4c57109f79c9b5",
+    "results/pilot/glove_1_floors.csv": "e4d2188558404c4ca9058976fa584fc6c795e01e91caeadba24093730c84f33d",
+    "results/pilot/glove_1_groups.csv": "dcaff3bdf2274337a9d4488fd423013cdc29dad151613fb0fbf0676ffa5633eb",
+    "results/pilot/glove_1_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/glove_1_policies.csv": "b1c297fc6984cc5ff0bb3f1f020ef7390acbbb3ecc63bfe00f541882d600f42a",
+    "results/pilot/glove_1_raw.npz": "41e17e12b6f0ff3b6ce8f0ba1f94fbf4b27506b7b8d95c940bcf452bb1f574bb",
+    "results/pilot/glove_2.json": "5a9fa2e31f6fd06ede07b32be125ae839c4acd96e2ae29c21db3e11d3985b82f",
+    "results/pilot/glove_2_admissions.csv": "ff3b94c55c6299a277d74efc805fe5e8a22bfe381987791b55d46b71dbc50f26",
+    "results/pilot/glove_2_floors.csv": "cdc3eac9053ebe76aebc2bdc1c9adb4a4b3feeecf89ebf60d900bc34e2340b77",
+    "results/pilot/glove_2_groups.csv": "e9c8bcda6feb1fd214861ebb9ea477399f50b2f47eb20888f7a18cb22371e9b5",
+    "results/pilot/glove_2_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/glove_2_policies.csv": "5961407c2bd9ceae92101cd0567f0956ce9bc8c376d5b8bce5d672bc7a506f7d",
+    "results/pilot/glove_2_raw.npz": "0dcc6c622525976b8885e0333501aaa50f853b38d1dd3a4ff4de8fb3210ca359",
+    "results/pilot/glove_3.json": "c1268f31b3234970deac510bb830097dedc030492e6ba264d40a3389af7ee18f",
+    "results/pilot/glove_3_admissions.csv": "e17cee1b4e993ec41666d561c660945315297f79a1df61901c4248659c94035a",
+    "results/pilot/glove_3_floors.csv": "39f17c55a1ea629bbbda9403f41a2690a07194c398c7608c614a0f41ca19cbeb",
+    "results/pilot/glove_3_groups.csv": "f3f58e098d0df6c2c5707c112b2572c9348a8267b47f4f9796844e0405e53684",
+    "results/pilot/glove_3_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/glove_3_policies.csv": "154a317b5f2f6d89cd3be522e2eb0c37955e1df6268dbffa5a3594f3df516f9f",
+    "results/pilot/glove_3_raw.npz": "30156ca0a6dd56b67f0a580dba64d27f9a81ddc40e13cfd013eeda4b4d8682d8",
+    "results/pilot/glove_4.json": "92a9c494b948a2ce0aed9755d7ad9083a67c9e22c0d75ba374b0984592d50f66",
+    "results/pilot/glove_4_admissions.csv": "dd840616e5aa3c570a77234e4dd4b908d68dfd83e90d9f87aa494bb062e991b1",
+    "results/pilot/glove_4_floors.csv": "5670f00512b097c9f087eff803e22c0d448d577fea4b2a82b236ec01be33f54b",
+    "results/pilot/glove_4_groups.csv": "afbf55d0fb097fbe71015780508a4d3bb97e859813341b4e8f9c1ab38e6c8776",
+    "results/pilot/glove_4_latency.csv": "37bc0cc583142ad31ff2106d0df2544f783b7a11561106924be896d12e811855",
+    "results/pilot/glove_4_policies.csv": "01e9e588a9d4b31df130d8c348941ccfaabc16b0a6cb8ab06f00d182b6cf6a2c",
+    "results/pilot/glove_4_raw.npz": "876813c87b6dfde9e40eed9a54d48a398572a106eecbb93ae0e079d391ef5a82"
+  },
+  "chosen_settings": {
+    "coco_clip_0": {
+      "regularization": 0.01,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "coco_clip_1": {
+      "regularization": 0.01,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "coco_clip_2": {
+      "regularization": 0.01,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "coco_clip_3": {
+      "regularization": 0.01,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "coco_clip_4": {
+      "regularization": 0.01,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "glove_0": {
+      "regularization": 0.1,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "glove_1": {
+      "regularization": 0.0,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "glove_2": {
+      "regularization": 0.001,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "glove_3": {
+      "regularization": 0.1,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    },
+    "glove_4": {
+      "regularization": 0.1,
+      "models": {
+        "occupancy": {
+          "depth": 6,
+          "leaf": 10
+        },
+        "geometry": {
+          "depth": 6,
+          "leaf": 10
+        }
+      }
+    }
+  },
+  "confirmation_rows_opened_before_lock": 0,
+  "rule": "Repeat the original H1 criteria on fixed confirmation roles; no tuning using confirmation outcomes.",
+  "confirmation_unique_queries_per_dataset": 2000
+}

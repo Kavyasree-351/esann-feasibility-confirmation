@@ -1,0 +1,42 @@
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/msys64/ucrt64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Could NOT find MKL (missing: MKL_LIBRARIES) 
+-- Looking for sgemm_
+-- Looking for sgemm_ - not found
+CMake Warning at C:/Program Files/Python312/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindBLAS.cmake:1367 (find_package):
+  By not providing "Findnvpl.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "nvpl", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "nvpl" with any of
+  the following names:
+
+    nvplConfig.cmake
+    nvpl-config.cmake
+
+  Add the installation prefix of "nvpl" to CMAKE_PREFIX_PATH or set
+  "nvpl_DIR" to a directory containing one of the above files.  If "nvpl"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+Call Stack (most recent call first):
+  faiss/CMakeLists.txt:364 (find_package)
+
+
+CMake Error at C:/Program Files/Python312/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake:227 (message):
+  Could NOT find BLAS (missing: BLAS_LIBRARIES)
+Call Stack (most recent call first):
+  C:/Program Files/Python312/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake:591 (_FPHSA_FAILURE_MESSAGE)
+  C:/Program Files/Python312/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindBLAS.cmake:1495 (find_package_handle_standard_args)
+  faiss/CMakeLists.txt:364 (find_package)
+
+
+-- Configuring incomplete, errors occurred!

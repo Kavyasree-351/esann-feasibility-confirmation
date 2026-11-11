@@ -1,0 +1,4 @@
+# Keep the verified research package byte-for-byte on every platform.
+START_HERE.md -text
+PACKAGE_MANIFEST.json -text
+outputs/** -text

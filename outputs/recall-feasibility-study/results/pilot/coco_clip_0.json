@@ -1,0 +1,120 @@
+{
+  "dataset": "coco_clip",
+  "seed": 0,
+  "stage": "pilot",
+  "diagnostic_models": {
+    "occupancy": {
+      "brier": 0.09399732182637857,
+      "depth": 6,
+      "leaf": 10
+    },
+    "geometry": {
+      "brier": 0.08520224318523631,
+      "depth": 6,
+      "leaf": 10
+    }
+  },
+  "diagnostic_tuning": [
+    {
+      "model": "occupancy",
+      "depth": 3,
+      "leaf": 10,
+      "validation_brier": 0.09459217863424664
+    },
+    {
+      "model": "occupancy",
+      "depth": 3,
+      "leaf": 30,
+      "validation_brier": 0.09456418761004619
+    },
+    {
+      "model": "occupancy",
+      "depth": 6,
+      "leaf": 10,
+      "validation_brier": 0.08967735170354962
+    },
+    {
+      "model": "occupancy",
+      "depth": 6,
+      "leaf": 30,
+      "validation_brier": 0.09235232830597716
+    },
+    {
+      "model": "geometry",
+      "depth": 3,
+      "leaf": 10,
+      "validation_brier": 0.08965354101276062
+    },
+    {
+      "model": "geometry",
+      "depth": 3,
+      "leaf": 30,
+      "validation_brier": 0.08976252014213285
+    },
+    {
+      "model": "geometry",
+      "depth": 6,
+      "leaf": 10,
+      "validation_brier": 0.07500829784122316
+    },
+    {
+      "model": "geometry",
+      "depth": 6,
+      "leaf": 30,
+      "validation_brier": 0.07977884050622246
+    }
+  ],
+  "regularization": 0.01,
+  "regularization_tuning": [
+    {
+      "regularization": 0.0,
+      "theta": 0.06030954048037529,
+      "validation_fnr": 0.106,
+      "validation_work": 8855.325
+    },
+    {
+      "regularization": 0.001,
+      "theta": 0.060463495552539825,
+      "validation_fnr": 0.0635,
+      "validation_work": 3461.28
+    },
+    {
+      "regularization": 0.01,
+      "theta": 0.0669361799955368,
+      "validation_fnr": 0.06149999999999999,
+      "validation_work": 2522.49
+    },
+    {
+      "regularization": 0.1,
+      "theta": 0.11272421479225159,
+      "validation_fnr": 0.0625,
+      "validation_work": 2555.08
+    }
+  ],
+  "paired_brier_difference_ci": [
+    -0.011871772593556738,
+    -0.005727830859000444
+  ],
+  "lookahead": {
+    "reference": "author-score discrete CRC adaptation",
+    "executed_mean": 2226.306,
+    "returned_mean": 2083.11,
+    "undercount_fraction": 0.06431999913758482,
+    "affected_queries": 437,
+    "query_count": 500,
+    "full_engine_verified": false
+  },
+  "timings": {
+    "index_build_seconds": 4.961084800073877,
+    "design_truth_seconds": 4.735532500082627,
+    "calibration_truth_seconds": 20.9581033999566,
+    "evaluation_truth_seconds": 4.792128999950364,
+    "path_design_seconds": 0.04125370015390217,
+    "diagnostic_learning_seconds": 2.391818500123918,
+    "calibration_grid_selection_seconds": 0.5460475001018494,
+    "total_seconds": 42.99826130014844,
+    "peak_process_rss_bytes": 311443456
+  },
+  "frozen_sha256": "631d20e347db674af5621fa4048d09bc57ce32616b14877a5b8ee3599b845370",
+  "confirmation_evaluated": false
+}

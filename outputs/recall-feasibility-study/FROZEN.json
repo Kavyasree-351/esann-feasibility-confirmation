@@ -1,0 +1,18 @@
+{
+  "files": {
+    "control.py": "e142a55ad7d35b4b43e9d632b420b4ab664b0e2996c3d5b83d34eb061a65fa90",
+    "engine.py": "409c8dfbf7e7225c6026de485e39c5a2379e4acd28dcef1383b8b47bb3652ae9",
+    "native_audit.py": "766ef2043c29d2b12d6e6c46e83f7fb23970936032f4b67be2a8a0f2e28bcc69",
+    "prepare.py": "b03c78821f61f8d77390dd8d9501bc7e2638cfd9e0a3b93711a1f17c0fad15a1",
+    "report.py": "bd8d319377b76f5eca11a1c82a74ae698173a2ca3809108ddd175663c282df11",
+    "smoke.py": "a9abb0a7393e6427e3ea546c9ea8b946e806a6517b9100a5eaf3f3a73d6034b1",
+    "study.py": "08a645d797563ead6322b626d2dae7f6e1c33dca21d6abd924e1d75a68bcb3e9",
+    "PROTOCOL.md": "7582e0b8bbe5ea4060b5c918ef70f68389a1608d79dd909c129f702c5ec05d0c",
+    "splits.json": "0edc6d4b278418e373437063af2a57c10ac0b144adeb89da340a9963ec20fc2f",
+    "SMOKE.json": "cb3775f432a36b24f410bfb4ea6c42ceb428ffe310ac1c13955795e6fd46fc27",
+    "NATIVE_AUDIT.json": "52d805b8621dddff36cb72e86d8303bae2889279b89b1a2cfddcd45f5b46ed87",
+    "author_stop_excerpt.cpp": "ad8b273b25edc25d0b6210c8fbbc3c1a343ba9b614e1ce0260d62939df35dae8"
+  },
+  "confirmation_opened": false,
+  "pilot_started": false
+}

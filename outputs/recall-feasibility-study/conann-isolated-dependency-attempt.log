@@ -1,0 +1,7 @@
+-- Could NOT find MKL (missing: MKL_LIBRARIES) 
+-- Found BLAS: <WORKSPACE>/work/conann-deps/ucrt64/lib/libopenblas.dll.a
+-- Found LAPACK: <WORKSPACE>/work/conann-deps/ucrt64/lib/libopenblas.dll.a
+-- Found GSL: <WORKSPACE>/work/conann-deps/ucrt64/include (found version "2.8")
+-- Configuring done (1.3s)
+-- Generating done (0.4s)
+-- Build files have been written to: <WORKSPACE>/work/conann-build-ninja

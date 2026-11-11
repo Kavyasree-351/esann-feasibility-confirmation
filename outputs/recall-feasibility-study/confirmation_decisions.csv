@@ -1,0 +1,21 @@
+dataset,seed,model,regimes,admitted,false_admissions,false_refusals,correct,meaning
+glove,0,occupancy,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,0,geometry,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,1,occupancy,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,1,geometry,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,2,occupancy,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,2,geometry,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,3,occupancy,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,3,geometry,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,4,occupancy,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+glove,4,geometry,20,12,0,0,20,finite confirmation workload; overlapping regimes are dependent
+coco_clip,0,occupancy,20,12,4,0,16,finite confirmation workload; overlapping regimes are dependent
+coco_clip,0,geometry,20,9,1,0,19,finite confirmation workload; overlapping regimes are dependent
+coco_clip,1,occupancy,20,8,0,0,20,finite confirmation workload; overlapping regimes are dependent
+coco_clip,1,geometry,20,8,0,0,20,finite confirmation workload; overlapping regimes are dependent
+coco_clip,2,occupancy,20,12,3,0,17,finite confirmation workload; overlapping regimes are dependent
+coco_clip,2,geometry,20,9,0,0,20,finite confirmation workload; overlapping regimes are dependent
+coco_clip,3,occupancy,20,12,3,0,17,finite confirmation workload; overlapping regimes are dependent
+coco_clip,3,geometry,20,9,0,0,20,finite confirmation workload; overlapping regimes are dependent
+coco_clip,4,occupancy,20,8,0,0,20,finite confirmation workload; overlapping regimes are dependent
+coco_clip,4,geometry,20,8,0,0,20,finite confirmation workload; overlapping regimes are dependent

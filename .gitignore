@@ -1,0 +1,9 @@
+/work/
+.venv/
+__pycache__/
+*.py[cod]
+/outputs/esann-feasibility-confirmation-paper/*.aux
+/outputs/esann-feasibility-confirmation-paper/*.fls
+/outputs/esann-feasibility-confirmation-paper/*.fdb_latexmk
+/outputs/esann-feasibility-confirmation-paper/*.log
+/outputs/esann-feasibility-confirmation-paper/*.synctex.gz

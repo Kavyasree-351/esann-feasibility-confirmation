@@ -1,0 +1,11 @@
+dataset,seed,retained_queries,removed_queries,occupancy_brier,geometry_brier,relative_improvement,scope
+glove,0,500,0,0.06079027497918838,0.050104578224220715,0.17577970750462846,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+glove,1,500,0,0.06429326529799878,0.05103270359082161,0.2062511780310825,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+glove,2,500,0,0.0599754729960791,0.04976362031364551,0.170267147090298,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+glove,3,500,0,0.059058257009848666,0.048462124842379294,0.17941830158824945,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+glove,4,500,0,0.06366447707089756,0.05257886930493963,0.17412548215251755,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+coco_clip,0,497,3,0.09412217268201276,0.08542768234093077,0.09237451806872221,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+coco_clip,1,497,3,0.09627763899868547,0.08411518866618392,0.1263268445196044,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+coco_clip,2,497,3,0.0928954235711706,0.07958132592738602,0.14332350434447572,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+coco_clip,3,497,3,0.09281106375245197,0.07924060425295229,0.14621596769642853,Descriptive Brier sensitivity only; original gate unchanged; no retuning
+coco_clip,4,497,3,0.10352373145926697,0.08413003612692285,0.1873357447511913,Descriptive Brier sensitivity only; original gate unchanged; no retuning

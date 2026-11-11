@@ -1,0 +1,12 @@
+{
+  "author_commit": "aa76fbc2e2aaec822ddca525baf4916da46a653b",
+  "source_sha256": "9aa8d3a52a749f3d981f69a1bda42027a086e33344689656d03049f90497d387",
+  "extracted_cpp_sha256": "ad8b273b25edc25d0b6210c8fbbc3c1a343ba9b614e1ce0260d62939df35dae8",
+  "random_differential_cases": 10000,
+  "lookahead_positive_control": true,
+  "full_author_engine_built": false,
+  "scope": "Actual extracted scalar expressions compiled; list scanner/calibration/native Faiss engine not reproduced.",
+  "build_blocker": "Full engine CMake configuration: required BLAS/MKL library not found.",
+  "upstream_url": "https://github.com/soniahorchidan/conann",
+  "full_engine_claim_allowed": false
+}

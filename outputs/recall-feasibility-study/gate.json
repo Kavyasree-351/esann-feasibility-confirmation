@@ -1,0 +1,51 @@
+{
+  "H1": {
+    "glove": {
+      "passing_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    },
+    "coco_clip": {
+      "passing_seeds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    }
+  },
+  "H2": {
+    "glove": {
+      "passing_seeds": [
+        0,
+        3,
+        4
+      ],
+      "passed": false
+    },
+    "coco_clip": {
+      "passing_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "passed": true
+    }
+  },
+  "H1_pass": true,
+  "H2_kernel_scope_pass": false,
+  "full_author_engine_verified": false,
+  "confirmation_allowed": true,
+  "frozen_sha256": "631d20e347db674af5621fa4048d09bc57ce32616b14877a5b8ee3599b845370",
+  "confirmation_queries_evaluated": 0,
+  "old_reserved_final_queries_evaluated": 0,
+  "novelty_established": false
+}
